@@ -1,0 +1,25 @@
+{
+  "name": "skyer-qiniu-pili-component",
+  "version": "0.0.1",
+  "description": "Skyer qiniu pili component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyerjs/qiniu-pili-component.git"
+  },
+  "keywords": [
+    "skyer",
+    "qiniu",
+    "pili",
+    "component"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyerjs/qiniu-pili-component/issues"
+  },
+  "homepage": "https://github.com/skyerjs/qiniu-pili-component#readme"
+}
